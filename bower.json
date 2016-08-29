@@ -1,14 +1,6 @@
 {
     "name": "ion-sound-nasetech-z",
     "version": "3.0.7",
-    "homepage": "https://github.com/zhangfu-git/ion-sound-nasetech",
-    "authors": [
-        {
-            "name": "IonDen",
-            "email": "denis.ineshin@gmail.com",
-            "homepage": "http://ionden.com"
-        }
-    ],
     "description": "JavaScript plugin for playing sounds and music on websites",
     "repository": {
         "type": "git",
@@ -30,8 +22,5 @@
         "ogg",
         "aac"
     ],
-    "license": "MIT",
-    "ignore": [
-        "ion-sound.jquery.json"
-    ]
+    "license": "MIT"
 }
