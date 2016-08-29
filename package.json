@@ -30,10 +30,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/IonDen/ion.sound"
+        "url": "https://github.com/zhangfu-git/ion-sound-nasetech"
     },
     "bugs": {
-        "url": "https://github.com/IonDen/ion.sound/issues"
+        "url": "https://github.com/zhangfu-git/ion-sound-nasetech/issues"
     },
     "license": "MIT",
 
