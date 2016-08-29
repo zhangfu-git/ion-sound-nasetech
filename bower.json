@@ -1,7 +1,7 @@
 {
     "name": "ion-sound",
     "version": "3.0.7",
-    "homepage": "https://github.com/IonDen/ion.sound",
+    "homepage": "https://github.com/zhangfu-git/ion-sound-nasetech",
     "authors": [
         {
             "name": "IonDen",
@@ -12,7 +12,7 @@
     "description": "JavaScript plugin for playing sounds and music on websites",
     "repository": {
         "type": "git",
-        "url": "git://github.com/IonDen/ion.sound.git"
+        "url": "git://github.com/zhangfu-git/ion-sound-nasetech"
     },
     "main": [
         "js/ion.sound.js"
